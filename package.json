@@ -1,0 +1,26 @@
+{
+  "name": "exo-8-ejs-simple",
+  "version": "1.0.0",
+  "description": "1 route, 1 fonction, 1 fichier index.ejs * La fonction contient le prénom. * La route permet de gérer les appels et envois la variable index.ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaCaZze/exo-8-ejs-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaCaZze/exo-8-ejs-simple/issues"
+  },
+  "homepage": "https://github.com/LaCaZze/exo-8-ejs-simple#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "require": "^2.4.20"
+  }
+}
